@@ -1,1 +1,1 @@
-# infrastructure-exposure-inequality
+# Infrastructure-Exposure-Inequality
